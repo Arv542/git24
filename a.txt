@@ -1,5 +1,4 @@
 learning git
-learning git1
 pack
 
 compile
